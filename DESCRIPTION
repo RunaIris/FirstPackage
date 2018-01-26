@@ -1,0 +1,10 @@
+Package: FirstPackage
+Type: Package
+Title: runa's first package yay
+Version: 0.1.0
+Author: Who wrote it
+Maintainer: The package maintainer <yourself@somewhere.net>
+Description: for practice with git, rstudio, etc
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
